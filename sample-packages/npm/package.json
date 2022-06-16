@@ -1,6 +1,19 @@
 {
-  "name": "hello-world",
-  "version": "0.0.1",
-  "description": "a hello world package",
-  "main": "index.js"
+  "name": "@renebentes/exercise-publish-package",
+  "version": "1.0.0",
+  "description": "A simple package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renebentes/exercise-publish-package.git"
+  },
+  "author": "Rene Bentes Pinto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renebentes/exercise-publish-package/issues"
+  },
+  "homepage": "https://github.com/renebentes/exercise-publish-package#readme"
 }
