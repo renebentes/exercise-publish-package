@@ -1,7 +1,6 @@
 {
   "name": "hello-world",
   "version": "0.0.1",
-  "private": true,
   "description": "a hello world package",
   "main": "index.js"
 }
